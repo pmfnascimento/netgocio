@@ -229,6 +229,7 @@
                         season: season,
                     },
                     success: function(response) {
+                        $('#rounds').html('');
                         for (f = 0; f < response.rounds.length; f++) {
                             $('#rounds').append('<option value="' + response.rounds[f].id +
                                 '">' + response.rounds[f].start + ' - ' + response.rounds[f]
