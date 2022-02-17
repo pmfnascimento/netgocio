@@ -1,0 +1,20 @@
+.modal:nth-of-type(even) {
+    z-index: 1052 !important;
+}
+.modal-backdrop.show:nth-of-type(even) {
+    z-index: 999 !important;
+}
+
+footer{
+    border-top: 1px solid #ccc;
+}
+
+.main-footer {
+    margin-left: 0px;
+    position: absolute;
+    bottom: 0;
+    left: 15%;
+    right: 15%;
+    height: 60px;
+
+}
