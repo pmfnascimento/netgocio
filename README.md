@@ -12,8 +12,9 @@
 <code>DB_PORT=3306<br></code><br>
 <code>DB_DATABASE= "Database Name"</code><br>
 <code>DB_USERNAME=root</code><br>
-<code>DB_PASSWORD=</code><br><br>
-</code>
+<code>DB_PASSWORD=</code><br>
+<code>TOKEN=</code><br><br>
+
 
 
 - run the command:<br><br>
