@@ -50,7 +50,7 @@
                     <div id="error-rounds" class="invalid-feedback text-center"></div>
                 </div>
                 <div class="col align-self-center">
-                    <button id="submit" class="btn btn-primary btn-block mb-4">Show</button>
+                    <a id="submit" class="btn btn-primary btn-block mb-4 text-white">Show</a>
                 </div>
             </div>
         </form>
