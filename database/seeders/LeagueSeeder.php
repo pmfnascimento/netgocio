@@ -14,7 +14,7 @@ class LeagueSeeder extends Seeder
      */
     public function run()
     {
-        $this->setLeague(271);
+        $this->setLeague(501);
     }
 
     public function setLeague($league)
